@@ -21,7 +21,7 @@
 >The are many ways you can map the 12 semitones in an octave to hue values, and one note at a time they can be interesting.
 	My first voyage was informed by discovering the Scriabin mapping, which is basically progressing hues along a circle of fifths. I did not find this particularly effective. I do not experience synesthesia in this way, and these color values did not impart on me any sense of relation to the pitches of the notes.
 This might be more useful if you use those hues as the general color of a piece in that key.
-	I settled on a rather elementary solution of mapping half-step intervals directly to hue angles.(360/11, since 360 == 0, and there must be some gap between B1 and C2). In melodic progressions I did find a sense of ascending and descending relation between hue and note value. However, this lead to the still greater problem, which is...
+	I settled on a rather elementary solution of mapping half-step intervals directly to hue angles.(360/13, since 360 == 0, and there must be some gap between B1 and C2). In melodic progressions I did find a sense of ascending and descending relation between hue and note value. However, this lead to the still greater problem, which is...
 
 >Everything turns white, pretty much instantly. The characteristics of timbre, chords, dissonance, etc.. cannot be represented by summing color values. So then there is another journey ahead
 
