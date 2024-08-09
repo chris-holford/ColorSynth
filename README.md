@@ -16,7 +16,7 @@
 	>>How to repesent interval and timbre texture
 
 
->The most obvious solution of mapping directly from pitch/note value to light wavlength/hue is fairly useless because our perception of wavelength differences in pitch and light are not similiar. C1 and C2 are similar and dissimilar in ways that red and very slightly more orangish red are not. This lead me to focusing on an octave at a time, and figuring some way to differentiate higher/lower octaves. My solution of desaturating was not the greatest, but was also not the biggest challenge.
+>The most obvious solution of mapping directly from pitch/note value to light wavlength/hue is fairly useless because our perception of wavelength differences in pitch and light are not similiar. C1 and C2 are similar and dissimilar in ways that red and very slightly more orangish red are not. This led me to focusing on an octave at a time, and figuring some way to differentiate higher/lower octaves. My solution of desaturating was not the greatest, but was also not the biggest challenge.
 
 >The are many ways you can map the 12 semitones in an octave to hue values, and one note at a time they can be interesting.
 	My first voyage was informed by discovering the Scriabin mapping, which is basically progressing hues along a circle of fifths. I did not find this particularly effective. I do not experience synesthesia in this way, and these color values did not impart on me any sense of relation to the pitches of the notes.
